@@ -1,0 +1,28 @@
+{
+    "photos": [
+        {
+            "id": "1",
+            "photo": "https://zippy-entremet-255702.netlify.app/img/1.webp"
+        },
+        {
+            "id": "2",
+            "photo": "https://zippy-entremet-255702.netlify.app/img/2.webp"
+        },
+        {
+            "id": "3",
+            "photo": "https://zippy-entremet-255702.netlify.app/img/3.webp"
+        },
+        {
+            "id": "4",
+            "photo": "https://zippy-entremet-255702.netlify.app/img/4.webp"
+        },
+        {
+            "id": "5",
+            "photo": "https://zippy-entremet-255702.netlify.app/img/5.webp"
+        },
+        {
+            "id": "6",
+            "photo": "https://zippy-entremet-255702.netlify.app/img/6.webp"
+        }
+    ]
+}
